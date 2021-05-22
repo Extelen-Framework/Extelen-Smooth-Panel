@@ -1,0 +1,16 @@
+{
+    "name": "com.extelen.smoothpanel.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fb7c1f5859ee5e04ba87c432669373c7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

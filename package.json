@@ -1,0 +1,14 @@
+{
+  "name": "com.extelen.smoothpanel",
+  "version": "1.0.0",
+  "displayName": "Extelen Smooth Panel",
+  "description": "A simple way to make a smooth panel animation",
+  "unity": "2020.3", 
+  "dependencies": {
+  },
+  "keywords": ["animation", "ui", "panel"],
+  "author": {
+      "name": "Rodrigo Saguer",
+      "email": "extelendev@gmail.com"
+  }
+}
